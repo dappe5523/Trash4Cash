@@ -1,0 +1,4 @@
+untuk menggunakan code harus punya xaamp 
+dimana folder tekno dimasukan ke htdocs
+dan tekno_db.sql di import ke my sql
+untuk melihat ada foto yang membantu
