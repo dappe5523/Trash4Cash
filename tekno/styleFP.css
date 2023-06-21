@@ -1,0 +1,53 @@
+.image-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; /* Adjust the height based on your requirements */
+}
+
+#logo {
+    width: 500px;
+    height: auto;
+}
+
+#login_button {
+    padding: 27px 60px;
+    border-radius: 50px;
+    border: 0;
+    background-color: #4CAF50; /* Green background color */
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    transition: all .5s ease;
+    margin: 10px;
+}
+
+#login_button:active {
+    background-color: #45A049; /* Darker green background color */
+    box-shadow: none;
+    transform: translateY(2px);
+}
+
+#signin_button {
+    padding: 27px 60px;
+    border-radius: 50px;
+    border: 0;
+    background-color: #4CAF50; /* Green background color */
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    transition: all .5s ease;
+    margin: 10px;
+}
+
+#signin_button:active {
+    background-color: #45A049; /* Darker green background color */
+    box-shadow: none;
+    transform: translateY(2px);
+}
+
